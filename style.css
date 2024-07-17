@@ -16,7 +16,7 @@ html{
      width: 100%;
      height: 100vh;
      background-image: URL("Remove background project.png");
-     background-size cover;
+     background-size: cover;
      background-position: center;
  }
 
